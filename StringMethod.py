@@ -1,19 +1,10 @@
-stringTesting = 'THIS IS the string, which is the testing of me!'
+stringTest = "  This is a SIMPLE TESt    "
 
-# Convert all of character in the string to the lower case
-    #stringTesting = stringTesting.lower()
-    #print(f"It is the string after the above method: {stringTesting}")
+#upper() method convert all of the characters in the string from normal to upper case
+result = stringTest.upper()
+print(f"This is the result of upper() method: \"{result}\"")
 
-# Same to the lower() method, but it's wider range than lower()
-    #stringTesting = stringTesting.casefold()
-    #print(f"It is the string after the above method: {stringTesting}")
+#lower() method convert all of the characters in the string from upper case to lower case
+result = stringTest.lower()
+print(f"This is the result of lower() method: \"{result}\"")
 
-# This method convert all the words in this string: each words will change to this: The first character will be upper case, other characters will be lower case
-    #stringTesting = stringTesting.title()
-    #print(f"It is the string after the above method: {stringTesting}")
-
-
-# Find method
-
-position = stringTesting.find("IS")
-print(f"The result of the find method: {position}")
