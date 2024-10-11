@@ -8,3 +8,6 @@ print(f"This is the result of upper() method: \"{result}\"")
 result = stringTest.lower()
 print(f"This is the result of lower() method: \"{result}\"")
 
+#Same to the lower() method, but it's stronger than lower case because it can convert character outside the alphabet
+result = stringTest.casefold()
+
