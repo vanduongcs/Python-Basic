@@ -30,5 +30,11 @@ print(f"This is the result of find() method: \"{result}\"")
 # A big different of them is that: if find() method can not find the specify string position int the string, it will return -1
 # But in this situation, the index() method will notify an error
 
+#I bring it into a comment because if I run it, the error will appear and program will stop.
+
+'''
 result = stringTest.index("can not find this string")
 print(f"This is the result of index() method: \"{result}\"")
+'''
+
+#"<separated>".join()
