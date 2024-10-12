@@ -1,0 +1,56 @@
+I. Basic String Exercises
+    1/ String Length
+        Write a Python program that asks the user to input a string and prints its length using the len() function.
+
+    2/ String Concatenation
+        Write a Python program that takes two strings as input and concatenates them.
+
+    3/ String Slicing
+        Write a Python program that takes a string and two indices, and prints the substring between those indices.
+
+    4/ String Reversal
+        Write a program to reverse a string provided by the user.
+
+    5/ Check Substring
+        Write a Python program to check if a given substring exists within a string.
+
+II. Intermediate String Exercises
+    6/ String Uppercase and Lowercase
+        Ask the user for a string and print the string in all uppercase and all lowercase.
+
+    7/ Count Occurrences
+        Write a Python program to count the number of times a specific character appears in a string.
+
+    8/ String Replacement
+        Write a program that replaces all occurrences of a particular substring in a given string with another substring.
+
+    9/ Palindrome Check
+        Write a Python program to check if a string is a palindrome (reads the same backward as forward).
+
+    10/ Find Index of a Substring
+        Ask the user for a string and a substring, then find the index of the first occurrence of that substring.
+
+III. Advanced String Exercises
+    11/ Remove Whitespace
+        Write a program that removes leading and trailing spaces from a string and replaces multiple spaces within the string with a single space.
+
+    12/ Anagram Check
+        Write a Python program to check if two input strings are anagrams of each other (i.e., both strings contain the same characters but in different orders).
+
+    13/ Capitalize Each Word
+        Write a program to capitalize the first letter of each word in a string.
+
+    14/ Longest Word in a Sentence
+        Write a Python program that takes a sentence and finds the longest word in it.
+
+    15/ Remove Vowels
+        Write a program that removes all vowels from a string.
+
+    16/ Count Words
+        Write a program that counts the number of words in a string.
+
+    17/ String Compression
+        Write a Python program to compress a string by counting consecutive occurrences of characters (e.g., "aaabbc" becomes "a3b2c").
+
+    18/ Password Strength Checker
+        Write a Python program that checks the strength of a password based on length, presence of digits, uppercase, lowercase, and special characters.
