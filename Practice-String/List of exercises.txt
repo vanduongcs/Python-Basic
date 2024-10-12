@@ -26,7 +26,7 @@ II. Intermediate String Exercises
 
     9/ Palindrome Check
         Write a Python program to check if a string is a palindrome (reads the same backward as forward).
-
+    # It same to the seven task, so I am not do it again
     10/ Find Index of a Substring
         Ask the user for a string and a substring, then find the index of the first occurrence of that substring.
 
